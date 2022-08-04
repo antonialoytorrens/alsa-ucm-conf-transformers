@@ -1,4 +1,4 @@
-# alsa-ucm-conf
+# alsa-ucm-conf-transformers
 ## ALSA Use Case Manager configuration
 
 ### Installation
@@ -11,12 +11,12 @@ files are extra (only informational).
 Example:
 
 ```
-tar xzjf alsa-ucm-conf-1.2.6.2.tar.bz2 -C /usr/share/alsa --strip-components=1 "*/ucm" "*/ucm2"
+tar xzjf alsa-ucm-conf-transformers-1.2.6.2.tar.bz2 -C /usr/share/alsa --strip-components=1 "*/ucm" "*/ucm2"
 ```
 
 ### Validation
 
-![Validate UCM configuration](https://github.com/alsa-project/alsa-ucm-conf/workflows/Validate%20UCM%20configuration/badge.svg?branch=master)
+![Validate UCM configuration](https://github.com/alsa-project/alsa-ucm-conf-transformers/workflows/Validate%20UCM%20configuration/badge.svg?branch=master)
 
 The UCM configurations are automatically validated using the UCM validator
 available at https://github.com/alsa-project/alsa-tests/tree/master/python/ucm-validator .

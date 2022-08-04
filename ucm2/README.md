@@ -18,7 +18,7 @@ placed to the separate conf.virt.d directory.
 
 The lookup configuration:
 
-  https://git.alsa-project.org/?p=alsa-ucm-conf.git;a=blob;f=ucm2/ucm.conf
+  https://git.alsa-project.org/?p=alsa-ucm-conf-transformers.git;a=blob;f=ucm2/ucm.conf
 
 Example paths - new conf.d scheme:
 
